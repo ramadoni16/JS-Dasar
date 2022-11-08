@@ -1,0 +1,65 @@
+tipe data pada JavaScript
+
+-number
+-String
+-Boolean
+-object
+-Function
+-Undefined
+
+Angka Spesial Pada Js
+Infinity EX('2/0=> INFINITY)
+-infinity EX ('-2/0=> -INFINITY')
+-NaN EX (0/0=>NaN)
+
+OPERATOR PADA JS
+
+ARITMATIKA (MATEMATIKA)=> binary(membutuhkan 2 operand)
+PENUGASAN ()=>binary
+PERBANDINGAN=>binary
+LOGIKA=>binary
+STRING=>binary
+
+KONDISIONAL=>ternary(membutuhkan 3 operand)
+TYPEOF=>unary(membutuhkan 1 operand)
+
+operator precedence(urutan operasi matematika)=>kukabataku
+
+operator penugasan assigment(=) example => var x
+				          x = 10
+			=
+		             +=
+		              -=
+		              *=
+			/=
+		             %=
+
+
+operator perbandingan akan menghasilkan boolean (ture or false)
+
+operator logika && and
+	          || or	
+	           ! NOT
+
+EXAMPLE = X = 5 HASIL => 5
+
+ESCAPE CARACTER
+\"
+\'
+
+.lengt 
+menghitung panjang string
+
+
+
+
+deklarasi variabel 
+-var
+-let
+-const
+
+
+
+
+
+

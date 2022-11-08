@@ -1,0 +1,19 @@
+CONTROL FLOW(Pengulangan, pengkodisian)
+ALUR KENDALI
+
+NORMAL FLOW
+
+
+pengulangan (loop)   
+
+for
+while
+do while
+
+
+pengkodisian (if, if.. else, if.. else if... else, switch)
+percabangan
+
+
+ 
+
