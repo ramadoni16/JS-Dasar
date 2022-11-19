@@ -46,3 +46,23 @@ function Mahasiswa(nama, nrp, email, jurusan) {
   this.jurusan = jurusan;
 }
 const mhs5 = new Mahasiswa("Ramadoni", "540958095809", "upin@gmail.com", "teknik permasalahan");
+
+// membuat object
+// cara 1 - function declaration
+// function halo(params) {
+//   console.log("halo");
+// }
+// halo();
+
+// cara 2 - objcet literal
+// var obj = {};
+// obj.halo = function (params) {
+//   console.log("halo");
+// };
+// obj.halo();
+
+// cara 3 - constructor
+// function Halo() {
+//   console.log("halo");
+// }
+// new Halo();
